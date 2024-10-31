@@ -1,0 +1,397 @@
+# Copyright (C) 2017 Oplao Weather Widget
+# This file is distributed under the same license as the Oplao Weather Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Oplao Weather Widget 1.5.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/oplao-weather\n"
+"POT-Creation-Date: 2016-01-09 07:34:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: oplao-weather-settings.php:10
+msgid "Oplao Weather Widget"
+msgstr ""
+
+#: oplao-weather-settings.php:14
+msgid "Weather Widget Cache Cleared"
+msgstr ""
+
+#: oplao-weather-settings.php:25
+msgid "Clear all Oplao Weather Widget Cache"
+msgstr ""
+
+#: oplao-weather-settings.php:36
+msgid "Settings"
+msgstr ""
+
+#: oplao-weather-settings.php:38
+msgid "API Key Required"
+msgstr ""
+
+#: oplao-weather-settings.php:54
+msgid "Error Handling"
+msgstr ""
+
+#: oplao-weather-settings.php:85
+msgid "Defined in wp-config"
+msgstr ""
+
+#: oplao-weather-settings.php:113 widget.php:90
+msgid "Oplao requires an APP ID key to access their weather data."
+msgstr ""
+
+#: oplao-weather-settings.php:115 widget.php:92
+msgid "Get your APPID"
+msgstr ""
+
+#: oplao-weather-settings.php:103
+msgid "Hidden in Source"
+msgstr ""
+
+#: oplao-weather-settings.php:104
+msgid "Display if Admin"
+msgstr ""
+
+#: oplao-weather-settings.php:105
+msgid "Display for Anyone"
+msgstr ""
+
+#: oplao-weather-settings.php:108
+msgid "What should the plugin do when there is an error?"
+msgstr ""
+
+#: oplao-weather.php:63
+msgid "C"
+msgstr ""
+
+#: oplao-weather.php:63
+msgid "F"
+msgstr ""
+
+#: oplao-weather.php:261
+#: oplao-weather.php:578
+msgid "mph"
+msgstr ""
+
+#: oplao-weather.php:578
+msgid "kmh"
+msgstr ""
+
+#: oplao-weather.php:261
+msgid "m/s"
+msgstr ""
+
+#: oplao-weather.php:75
+msgid "Humidity"
+msgstr ""
+
+#: oplao-weather.php:76
+msgid "Feels like"
+msgstr ""
+
+#: oplao-weather.php:77
+msgid "Wind"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Sun"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Mon"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Tue"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Wed"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Thu"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Fri"
+msgstr ""
+
+#: oplao-weather.php:573
+msgid "Sat"
+msgstr ""
+
+#: oplao-weather.php:661
+msgid "No weather information available"
+msgstr ""
+
+#: oplao-weather.php:686
+msgid "No city found in oplao."
+msgstr ""
+
+#: oplao-weather.php:687
+msgid "Only one location found. The ID has been set automatically above."
+msgstr ""
+
+#: oplao-weather.php:688
+msgid "Please confirm your city: &nbsp;"
+msgstr ""
+
+#: widget.php:108
+msgid "and add it to the new settings page."
+msgstr ""
+
+#: widget.php:120
+msgid "Search for Your Location:"
+msgstr ""
+
+#: widget.php:121
+msgid "(i.e: Minsk,BY or - London,UK)"
+msgstr ""
+
+#: widget.php:123
+msgid "Units:"
+msgstr ""
+
+#: widget.php:149
+msgid "Size:"
+msgstr ""
+
+#: widget.php:158
+msgid "Forecast:"
+msgstr ""
+
+#: widget.php:217
+msgid "Widget Title: (optional)"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Oplao Weather Widget"
+msgstr ""
+
+#: widget.php:139
+msgid "1 Day"
+msgstr ""
+
+#: widget.php:142
+msgid "3 Day"
+msgstr ""
+
+#: widget.php:145
+msgid "5 Day"
+msgstr ""
+
+#: widget.php:148
+msgid "5 Days(wide)"
+msgstr ""
+
+#: widget.php:154
+msgid "Sample №:"
+msgstr ""
+
+#: widget.php:157
+msgid "1 Poly"
+msgstr ""
+
+#: widget.php:159
+msgid "2 Gold"
+msgstr ""
+
+#: widget.php:161
+msgid "3 Orange"
+msgstr ""
+
+#: widget.php:163
+msgid "4 Blue"
+msgstr ""
+
+#: widget.php:165
+msgid "5 Turquoise"
+msgstr ""
+
+#: widget.php:169
+msgid "Show location as:"
+msgstr ""
+
+#: widget.php:172
+msgid "Only City Name"
+msgstr ""
+
+#: widget.php:172
+msgid "City Name, Country"
+msgstr ""
+
+#: widget.php:172
+msgid "City Name, State Name"
+msgstr ""
+
+#: widget.php:172
+msgid "City Name, State Name, Country"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Sunny"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Clear"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Partly cloudy"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Cloudy"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Overcast"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Mist"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Fog"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Freezing fog"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light patchy rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Moderate patchy rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy patchy rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Moderate rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Rain shower"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Patchy storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Patchy light storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Freezing rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy freezing rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Ice pellets"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Ice pellets showers"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy ice pellets showers"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Patchy sleet"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light sleet"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy sleet"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light patchy snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Moderate patchy snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy patchy sno"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Moderate snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Snowfall"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Blizzard"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Light snow storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Heavy snow storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Rain"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Storm"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Snow"
+msgstr ""
+
+#: oplao-weather.php:283
+msgid "Sleet"
+msgstr ""
